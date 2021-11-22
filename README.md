@@ -1,4 +1,4 @@
-# Discord-Token-Grabber
+# Moon-Token-Grabber
 A New Discord Token Grabber By Python.
 
 # Note!!
